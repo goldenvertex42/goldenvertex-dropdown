@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goldenvertex42/dropdown-menu.git"
+    "url": "git+https://github.com/goldenvertex42/goldenvertex-dropdown.git"
   },
   "keywords": [],
   "author": "Denver Clark <fabled93@gmail.com> (https://github.com/goldenvertex42)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goldenvertex42/dropdown-menu/issues"
+    "url": "https://github.com/goldenvertex42/goldenvertex-dropdown/issues"
   },
-  "homepage": "https://github.com/goldenvertex42/dropdown-menu#readme",
+  "homepage": "https://github.com/goldenvertex42/goldenvertex-dropdown#readme",
   "devDependencies": {
     "css-loader": "^7.1.2",
     "html-webpack-plugin": "^5.6.4",
