@@ -19,3 +19,5 @@ export const initialize = () => {
         setupEventListeners(dropdownInstances);
     });
 }
+
+initialize();
