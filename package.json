@@ -1,6 +1,6 @@
 {
   "name": "goldenvertex-dropdown",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A reusable dropdown menu using html, css, and javascript",
   "main": "./dist/main.js",
   "scripts": {
@@ -9,6 +9,9 @@
     "build": "webpack --config webpack.prod.js",
     "deploy": "git subtree push --prefix dist origin gh-pages"
   },
+  "files": [
+    "assets"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/goldenvertex42/goldenvertex-dropdown.git"
