@@ -360,7 +360,6 @@ template {
 }
 
 .dropdown-btn {
-  background-image: url(./assets/menu.svg);
   background-color: #8ecae6;
   color: #023047;
   margin: 1rem 1rem 0 1rem;

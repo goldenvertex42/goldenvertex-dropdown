@@ -1,7 +1,14 @@
+import menuIcon from "./assets/menu.svg";
+
 export class DropdownMenu {
     constructor(containerElement) {
         this.container = containerElement;
         this.button = this.container.querySelector('.dropdown-btn')
+
+        if(this.button) {
+            this.button.style.backgroundImage = `url('${menuIcon}')`;
+        }
+
         this.content = this.container.querySelector('.dropdown-content');
 
         if (!this.button || !this.content) {
