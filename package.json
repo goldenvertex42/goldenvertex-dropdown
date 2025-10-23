@@ -1,6 +1,6 @@
 {
   "name": "goldenvertex-dropdown",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "A reusable dropdown menu using html, css, and javascript",
   "main": "./dist/main.js",
   "scripts": {
